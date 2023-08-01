@@ -63,11 +63,9 @@ In this activity , you can see the list of the requests that you have accepted f
 https://github.com/K-Ravi-Chandra/Hunger-Reliever/assets/73428137/68416821-c4d6-4e19-a297-fcec4b536d79
 
 # APP LINK:
+Here is the drive folder link, you can find our apk file and and demo video.
 https://drive.google.com/drive/folders/1umXNI7YKW2-BZ2IVDbaXI2P3WtV3ftRH?usp=drive_link
 
-
-Here is the drive folder link, you can find our apk file and and demo video.
-https://drive.google.com/drive/folders/1Wfw1B53Rz_V8zrNDEvPR4cDpXrBhX7tU?usp=sharing
 
 > :warning: This app uses firebase phone authentication and to work it need SHA-1 fingerprint in firebase console. If your build apk was not working you can use the apk that we have attached with our demo video.
 
